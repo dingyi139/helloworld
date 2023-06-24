@@ -171,6 +171,6 @@ define Package/$(PKG_NAME)/conffiles
 /usr/share/passwall/rules/domains_excluded
 endef
 
-include ../../luci.mk
+include ../../luci/luci.mk
 
 # call BuildPackage - OpenWrt buildroot signature
