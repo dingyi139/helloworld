@@ -118,7 +118,7 @@ if is_finded("chinadns-ng") then
 	o:value("wan", translate("Use DNS from WAN"))
 	o:value("wan_114", translate("Use DNS from WAN and 114 DNS"))
 	o:value("114.114.114.114:53", translate("114 DNS (114.114.114.114)"))
-	o:value("119.29.29.29:53", translate("DNSPod Public DNS (119.29.29.29)"))
+	o:value("119.29.29.29:53", translate("DNSPod DNS (119.29.29.29)"))
 	o:value("1.2.4.8:53", translate("CNNIC SDNS (1.2.4.8)"))
 	o:depends({pdnsd_enable = "1", run_mode = "router"})
 	o:depends({pdnsd_enable = "2", run_mode = "router"})
