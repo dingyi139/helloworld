@@ -1,5 +1,4 @@
-# Copyright (C) 2018-2020 L-WRT Team
-# Copyright (C) 2021-2022 xiaorouji
+# Copyright (C) 2018 DingYi
 #
 # This is free software, licensed under the GNU General Public License v3.
 
