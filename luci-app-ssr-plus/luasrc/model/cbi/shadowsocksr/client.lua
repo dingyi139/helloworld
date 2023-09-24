@@ -10,7 +10,7 @@ local function is_finded(e)
 	return luci.sys.exec('type -t -p "%s"' % e) ~= "" and true or false
 end
 
-m = Map("shadowsocksr", translate("ShadowSocksR Plus+ Settings"))
+m = Map("shadowsocksr", translate("Transparent Proxy Settings"))
 m:section(SimpleSection).template = "shadowsocksr/status"
 
 local server_table = {}
