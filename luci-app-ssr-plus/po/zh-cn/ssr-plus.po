@@ -316,7 +316,7 @@ msgstr "自动更新"
 msgid "Through proxy update"
 msgstr "通过代理更新"
 
-msgid "ShadowSocksR Plus+ Settings"
+msgid "Transparent Proxy Settings"
 msgstr "运行设置"
 
 msgid "Main Server"
